@@ -1,3 +1,5 @@
 /.idea/
 /.swagger-codegen/
 /target/
+/database_in_memory/
+
